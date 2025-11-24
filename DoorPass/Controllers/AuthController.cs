@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ReservasDiscoteca.API.Data;
@@ -80,4 +81,11 @@ namespace ReservasDiscoteca.API.Controllers
             };
         }
     }
+=======
+namespace ReservasDiscoteca.API.Controllers;
+
+public class AuthController
+{
+    
+>>>>>>> 45228dae2025805bf85bb00c4febb47227f0794e
 }

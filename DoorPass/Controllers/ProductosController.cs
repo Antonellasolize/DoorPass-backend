@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -134,4 +135,11 @@ namespace ReservasDiscoteca.API.Controllers
                 .ToListAsync();
         }
     }
+=======
+namespace ReservasDiscoteca.API.Controllers;
+
+public class ProductosController
+{
+    
+>>>>>>> 45228dae2025805bf85bb00c4febb47227f0794e
 }

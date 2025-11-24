@@ -7,7 +7,11 @@
     </PropertyGroup>
 
     <ItemGroup>
+<<<<<<< HEAD
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.10"/>
+=======
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.8"/>
+>>>>>>> 45228dae2025805bf85bb00c4febb47227f0794e
     </ItemGroup>
 
 </Project>

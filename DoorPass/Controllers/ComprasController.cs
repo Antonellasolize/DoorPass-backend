@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -288,4 +289,11 @@ namespace ReservasDiscoteca.API.Controllers
             };
         }
     }
+=======
+namespace ReservasDiscoteca.API.Controllers;
+
+public class ComprasController
+{
+    
+>>>>>>> 45228dae2025805bf85bb00c4febb47227f0794e
 }

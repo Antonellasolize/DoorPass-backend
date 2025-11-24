@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -215,4 +216,11 @@ namespace ReservasDiscoteca.API.Controllers
             return Ok(new UsuarioDto { Id = usuario.Id, Nombre = usuario.Nombre, Email = usuario.Email, Rol = usuario.Rol, Token = "" });
         }
     }
+=======
+namespace DoorPass.Controllers;
+
+public class AdminController
+{
+    
+>>>>>>> 45228dae2025805bf85bb00c4febb47227f0794e
 }
