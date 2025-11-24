@@ -1,0 +1,6 @@
+@DoorPass_HostAddress = http://localhost:5223
+
+GET {{DoorPass_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
